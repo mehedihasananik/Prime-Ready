@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "description": "Create a beautiful blog that fits your style. Choose from a selection of easy-to-use templates – all with flexible layouts and hundreds of background images – or design something new.",
+    "name": "John Doe",
+    "location": "City A",
+    "rating": 4.5
+  },
+  {
+    "id": 2,
+    "description": "Create a beautiful blog that fits your style. Choose from a selection of easy-to-use templates – all with flexible layouts and hundreds of background images – or design something new.    ",
+    "name": "Jane Smith",
+    "location": "City B",
+    "rating": 3.8
+  },
+  {
+    "id": 3,
+    "description": "Create a beautiful blog that fits your style. Choose from a selection of easy-to-use templates – all with flexible layouts and hundreds of background images – or design something new.    ",
+    "name": "Bob Johnson",
+    "location": "City C",
+    "rating": 4.2
+  },
+  {
+    "id": 4,
+    "description": "Earn money Get paid for your hard work. Google AdSense can automatically display relevant targeted ads on your blog so that you can earn income by posting about your passion",
+    "name": "Alice Williams",
+    "location": "City D",
+    "rating": 4.0
+  },
+  {
+    "id": 5,
+    "description": "Fifth item",
+    "name": "Charlie Brown",
+    "location": "City E",
+    "rating": 4.7
+  },
+  {
+    "id": 6,
+    "description": "Sixth item",
+    "name": "Eva Davis",
+    "location": "City F",
+    "rating": 3.9
+  }
+]
